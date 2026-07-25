@@ -1,6 +1,11 @@
-##CS Undergrad | Full-Stack Developer | Systems & DSA Enthusiast
+Hi, I’m a Computer Science Engineering Student & Full-Stack Developer 🚀
 
-Building monolithic backends with Node.js & SQL, coupled with modern HTML frontends. Driven by clean architecture, efficient algorithms, and impactful real-world software.
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+🛠️ Tech Stack: React, Node.js, Express, SQL, C++, JavaScript
+
+🎨 UI/UX Focus: Glassmorphism, Framer Motion, and intuitive visual design
+
+💻 Currently Building: Full-stack web applications & startup infrastructure platforms
+
+🧠 Exploring: Advanced Data Structures, Algorithms & Systems Design
+
+🤝 Community: Active in tech initiatives and social outreach
