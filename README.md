@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/ankitraj2707"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:krankit2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://yojana-basket.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://ankitraj2707.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
 </p>
 
 ---
